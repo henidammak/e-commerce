@@ -1,0 +1,33 @@
+.linkacheter {
+  color: white;
+  text-decoration: none;
+}
+.linkacheter:hover {
+  color: green;
+}
+.button {
+  background-color: #f97e4d;
+  border-color: transparent;
+}
+.button:hover {
+  background-color: #ffa480;
+  border-color: transparent;
+}
+.homecard {
+  text-align: center;
+}
+.card {
+  border: 2px solid #f97e4d;
+  height: 28rem;
+  padding-top: 10px;
+}
+.catégorie {
+  color: green;
+}
+.cardimg {
+  height: 16rem;
+  width: 17.5rem;
+}
+.caritem {
+  padding-bottom: 20px;
+}

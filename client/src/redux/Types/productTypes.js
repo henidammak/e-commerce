@@ -1,0 +1,5 @@
+export const ADD = 'ADD'
+export const EDIT = 'EDIT'
+export const DELETE = 'DELETE'
+export const GET = 'GET'
+export const GET_ONE = 'GET_ONE'

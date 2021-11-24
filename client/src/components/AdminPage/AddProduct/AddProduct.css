@@ -1,0 +1,24 @@
+.modal {
+  background: linear-gradient(120deg, #f8c844bd, #2c5312d2);
+}
+.cadremodal {
+  border: 2px solid #f97e4d;
+}
+#cadremodal {
+  border: 2px solid #f97e4d;
+}
+.modaltitle {
+  color: green;
+}
+
+#modalinput {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 2px solid #f97e4d;
+}
+.btnmodal {
+  width: 8.3rem;
+}
+#btnajouter {
+  width: 10rem;
+}

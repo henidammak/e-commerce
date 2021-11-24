@@ -1,0 +1,25 @@
+.iconpannier {
+  font-size: 2rem;
+  margin-left: 79rem;
+  color: white;
+}
+.iconpannier:hover {
+  color: green;
+}
+.article-bars {
+  color: white;
+  margin-left: -75rem;
+  font-size: 2rem;
+}
+.article-bars:hover {
+  color: green;
+}
+.logo {
+  margin-left: -50px;
+  top: 6%;
+  left: 50%;
+  height: 55px;
+  width: 85px;
+  position: absolute;
+  content: "";
+}

@@ -1,0 +1,14 @@
+.remove {
+  border-radius: 10px;
+}
+.add {
+  border-radius: 10px;
+}
+.btncommande {
+  background-color: #f97e4d;
+  border: none;
+  color: white;
+}
+.btncommande:hover {
+  background-color: #f97e4d91;
+}

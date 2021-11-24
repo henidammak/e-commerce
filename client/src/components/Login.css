@@ -1,0 +1,45 @@
+.bgimg {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(120deg, #f8e64486, #f97e4d);
+  height: 100vh;
+  overflow: hidden;
+}
+#loginadmin {
+  padding: 50px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px;
+
+  background: white;
+  border-radius: 10px;
+  border: 2px solid green;
+  box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.05);
+}
+.title {
+  color: #f85d20;
+  text-align: center;
+  padding-bottom: 20px;
+}
+.tirer {
+  color: #f85d20;
+}
+.input {
+  border: 2px solid green;
+}
+.button {
+  background-color: #f97e4d;
+  border-color: transparent;
+}
+.button:hover {
+  background-color: #ffa480;
+  border-color: transparent;
+}
+.linkinscrire {
+  color: green;
+}
+.linkinscrire:hover {
+  color: #ffa480;
+}

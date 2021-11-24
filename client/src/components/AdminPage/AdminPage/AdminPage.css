@@ -1,0 +1,56 @@
+#navbar {
+  background-color: rgb(21, 115, 71);
+  height: 3.7rem;
+}
+#iconcommande {
+  color: white;
+  font-size: 2rem;
+  padding-left: 80rem;
+}
+#iconcommande:hover {
+  color: orangered;
+}
+#iconaccueil {
+  color: white;
+  font-size: 2rem;
+  padding-left: 2rem;
+  margin-top: -45px;
+}
+#iconaccueil:hover {
+  color: orangered;
+}
+
+#logo {
+  margin-left: -50px;
+  top: 6%;
+  left: 50%;
+  height: 55px;
+  width: 85px;
+  position: absolute;
+  content: "";
+  margin-top: -37px;
+}
+
+.adminpage {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+
+  font-family: monospace;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+#recherche {
+  border-style: double;
+  border: 3px ridge green;
+  outline: none;
+  border-radius: 5px;
+  padding-right: 150px;
+  margin-left: 32rem;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background: #0a3d030a;
+}
+input::placeholder {
+  color: green;
+}
